@@ -40,7 +40,7 @@ AI-native integrated development environments where an agent is the primary codi
 - **[PearAI](https://pearai.com/)** `Community` — Open-source AI code editor combining chat, agents, and code review in one workspace.
 - **[Replit Agent](https://replit.com/ai)** `Official` — Replit's autonomous coding agent that builds and deploys full projects from prompts.
 - **[CodeSandbox](https://codesandbox.io/)** `Official` — Cloud development platform with AI-assisted editing and instant deploy previews.
-- **[Podium](https://podium.do/)** `Community` — Open-source workspace for taking ideas from conversation to coordinated work with coding agents. Agents organize tasks in the same system developers use to follow progress and change direction.
+- **[Podium](https://podium.do/)** `Community` — Open-source workspace for taking ideas from conversation to coordinated work with coding agents. A shared task system lets them organize the effort while developers follow progress and change direction.
 
 ---
 
